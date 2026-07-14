@@ -35,11 +35,11 @@ A comprehensive Power BI dashboard developed to analyze pharmaceutical sales per
 
 ## Context
 
-NovaMed Solutions is a healthcare organization that distributes pharmaceutical products across multiple international markets. As sales volumes increased, management required an integrated reporting solution capable of monitoring revenue, profitability, customer behavior, drug performance, and regional sales performance from a single interactive dashboard. :contentReference[oaicite:0]{index=0}
+NovaMed Solutions is a healthcare organization that distributes pharmaceutical products across multiple international markets. As sales volumes increased, management required an integrated reporting solution capable of monitoring revenue, profitability, customer behavior, drug performance, and regional sales performance from a single interactive dashboard. 
 
 ## Problem Statement
 
-The business lacked a centralized reporting system capable of answering critical questions regarding monthly sales trends, customer demographics, product performance, regional revenue distribution, and profitability. Leadership needed actionable insights to optimize product strategy, customer acquisition, and regional expansion while maintaining strong financial performance. :contentReference[oaicite:1]{index=1}
+The business lacked a centralized reporting system capable of answering critical questions regarding monthly sales trends, customer demographics, product performance, regional revenue distribution, and profitability. Leadership needed actionable insights to optimize product strategy, customer acquisition, and regional expansion while maintaining strong financial performance.
 
 ## Approach
 
